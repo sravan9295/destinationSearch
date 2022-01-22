@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.destination-item {
+  list-style-type: none;
+}
+.destination-image {
+  width: 30%;
+}

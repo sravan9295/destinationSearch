@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.destinations-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  list-style-type: none;
+}
+.search-icon {
+  width: 10%;
+}
+input {
+  border: none;
+  outline: none;
+}
